@@ -1,7 +1,7 @@
 # Java Paint
 A simple paint made with Java
 
-[[/images/java-paint.png|Screenshot]]
+[[https://github.com/marcelohama/java-paint/blob/master/images/java-paint.png|Screenshot]]
 
 ## Build Output Description
 When you build an Java application project that has a main class, the IDE automatically copies all of the JAR
